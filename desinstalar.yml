@@ -1,0 +1,5 @@
+---
+- hosts: UBUNTU
+  roles:
+    - docker_remove
+  become: yes 

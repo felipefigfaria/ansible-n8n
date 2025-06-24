@@ -1,0 +1,8 @@
+---
+- hosts: UBUNTU
+  roles:
+    - pacotes
+    - ip_fixo
+    - docker
+    - n8n
+  become: yes 

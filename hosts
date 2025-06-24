@@ -1,0 +1,2 @@
+[UBUNTU]
+ubuntu-n8n ansible_host=10.1.1.69 ansible_user=sig ansible_ssh_private_key_file='/home/sig/ansible-n8n/chaves-ssh/n8n'
